@@ -24,4 +24,11 @@
   </ul>
 <h2>Screen Shots</h2>
 ![React Tutorial](https://user-images.githubusercontent.com/72998655/134770284-27dfbb23-647e-4e21-a7f0-c3eb9c237a0a.png)
+<h2 >Author</h2>
+<h3 >**Karthiga Rajkumar**</h3>
+
+- [Profile](https://github.com/karthig-eng)
+- [Email](mailto:karthigaa.rajkumar@gmail.com?subject=Hi% "Hi!")
+- [Website]( https://karthig-eng.github.io/Portfolio/ "Welcome")
+
 

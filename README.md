@@ -30,18 +30,14 @@
 - [Profile](https://github.com/karthig-eng)
 - [Email](mailto:karthigaa.rajkumar@gmail.com?subject=Hi% "Hi!")
 - [Website]( https://karthig-eng.github.io/Portfolio/ "Welcome")
- ## Available Commands
- 
-open with live server
 
-<ul>
- <h2>Getting Started </h2>
-     <ul>
-       <li>Prerequisite 
+<h2>Getting Started </h2>
+    
+  <h4>Prerequisite </h4>
        <p>MIcrosoft Visual studio Code</p>
        <p>live server<p>
-       </li>
        
-     </ul>
+       
+
     
   

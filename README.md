@@ -23,7 +23,8 @@
     </li>
   </ul>
 <h2>Screen Shots</h2>
- ![React Tutorial] (https://user-images.githubusercontent.com/72998655/134770284-27dfbb23-647e-4e21-a7f0-c3eb9c237a0a.png)
+![React Tutorial] (https://user-images.githubusercontent.com/72998655/134770284-27dfbb23-647e-4e21-a7f0-c3eb9c237a0a.png)
+ 
 <h2 >Author</h2>
 <h3 >**Karthiga Rajkumar**</h3>
 
